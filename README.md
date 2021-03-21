@@ -14,4 +14,8 @@ The scenario sequence is as follows:
 4. TLS  
 5. Full TOC  
 
-While running through the different scenarios we consider the *Five Focusing Steps* of the TOC as well.
+While running through the different scenarios we consider the *Five Focusing Steps* of the TOC - Theory of Constraints as well.
+
+- DiceGame.nb (Mathematica notebook)
+- DiceGame.cdf (for older versions of the free Wolfram Player)
+- DiceGame.pdf (the notebook in PDF format)
