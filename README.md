@@ -3,6 +3,8 @@ Goldratt's "Dice  Game" and the Five Focusing Steps - A simulation for learning 
 
 This repository contains "Dice Game" files. The Dice Game was introduced in one of the best-selling business books of all time, THE GOAL, authored by Dr. Eli Goldratt.  
 
+![The System](
+
 Compared to other simulations and simulation tools, this notebook is slightly different because we simulate five different scenarios to highlight the interdependencies within the line. 
 
 The scenario sequence is as follows:  
