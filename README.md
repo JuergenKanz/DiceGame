@@ -16,6 +16,7 @@ The scenario sequence is as follows:
 
 While running through the different scenarios we consider the *Five Focusing Steps* of the TOC - Theory of Constraints as well.
 
+The files:  
 - DiceGame.nb (Mathematica notebook)
 - DiceGame.cdf (for older versions of the free Wolfram Player)
 - DiceGame.pdf (the notebook in PDF format)
